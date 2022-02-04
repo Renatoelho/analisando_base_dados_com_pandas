@@ -21,7 +21,7 @@ resumo_vendas = pd.DataFrame(base_vendas.groupby(by="bandeira_cartao").valor.sum
 display(resumo_vendas)
 ```
 
-![Resumo base de vendas](https://drive.google.com/uc?export=1D8M5xCjeziAbrOLmRsNSWX41YztTspJN)
+![Resumo base de vendas](https://drive.google.com/uc?export=view&id=1D8M5xCjeziAbrOLmRsNSWX41YztTspJN)
 
 ### 3º Criar uma nova base com o resultado da análise.
 
@@ -29,7 +29,7 @@ display(resumo_vendas)
 resumo_vendas.to_csv("resumo_vendas.csv", sep=";")
 ```
 
-![arquivo resumo base de vendas](https://drive.google.com/uc?export=1Dv_HdHKbUBf48oh7kc5leJENklKqao-I)
+![arquivo resumo base de vendas](https://drive.google.com/uc?export=view&id=1Dv_HdHKbUBf48oh7kc5leJENklKqao-I)
 
 Esse foi um exemplo bem básico, mas o suficiente para mostrar como é simples e rápido fazer uma análise de dados utilizando o Python, Pandas e o Jupyter notebook.
 
