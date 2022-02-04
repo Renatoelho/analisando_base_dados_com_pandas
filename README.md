@@ -1,4 +1,4 @@
-# Analisando uma base da dados com Pandas
+# Analisando uma base de dados com Pandas
 
 Vamos analisar uma base de vendas de uma determinada empresa de Ecommerce, para isso teremos acesso a um arquivo *‘.csv’* com as vendas de um determinado período, neste nosso exemplo aqui vamos utilizar o *Pandas* para ler esse arquivo, consolidar as vendas por bandeira de cartão de crédito e ao final gravar esse resultado em uma nova base *‘.csv’*. Toda análise será feita utilizando o *Jupyter Notebook* com o *Python 3*.
 
