@@ -23,7 +23,6 @@ display(resumo_vendas)
 
 ![Resumo base de vendas](https://drive.google.com/uc?export=1D8M5xCjeziAbrOLmRsNSWX41YztTspJN)
 
-
 ### 3º Criar uma nova base com o resultado da análise.
 
 ```python
